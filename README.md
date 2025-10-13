@@ -28,6 +28,6 @@ Enthusiast</a> and <a href="https://www.youtube.com/c/alphonsjaisonmusic">Musici
 
 [twitter]: https://twitter.com/alphonsjaison
 [youtube]: https://www.youtube.com/c/alphonsjaisonmusic
-[instagram]: https://www.instagram.com/alphonsjaionmusic/
+[instagram]: https://www.instagram.com/alphonsjaisonmusic/
 [linkedin]: https://linkedin.com/in/alphonsjaison
 
