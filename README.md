@@ -3,7 +3,7 @@ Enthusiast</a> and <a href="https://www.youtube.com/c/alphonsjaisonmusic">Musici
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 - <b>Python</b>
-  - [Cyber AI Vulnerability Scanner](https://github.com/alphonsjaison/cyber-ai-vuln-scanner)
+  - Cyber AI Vulnerability Scanner (https://github.com/alphonsjaison/cyber-ai-vuln-scanner)
 
 <h2> 🤳 Connect with me:</h2>
 
