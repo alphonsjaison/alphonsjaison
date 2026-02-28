@@ -1,5 +1,5 @@
 <h1>Hi, I'm Alphons! <br/><a href="https://github.com/alphonsjaison">AI</a>, <a href="https://www.linkedin.com/in/alphonsjaison/">Cybersecurity 
-Enthusiast</a> and <a href="https://www.youtube.com/c/alphonsjaisonmusic">Musician</a></h1>
+Enthusiast</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 - <b>Python</b>
